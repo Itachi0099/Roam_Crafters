@@ -1,6 +1,4 @@
 # Roam_Crafters
-A travel Website built using bootstrap js and other frontend components making it user friendly and easy to work with.
-# Roam_Crafters
 
 **Roam_Crafters** is a travel-themed front-end website built using Bootstrap, JavaScript, and other UI components. The aim is to provide a user-friendly interface for exploring travel destinations, viewing itineraries, and related content.
 
