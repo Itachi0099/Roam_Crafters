@@ -74,6 +74,9 @@ CSS (custom) for additional styling
 
 (Optional) You could integrate further libraries like jQuery, animation libraries, or a CSS framework
 
+
+
+
 ✅ To Improve / Future Enhancements
 Add more pages or sections: e.g. blog, testimonials, booking form
 
@@ -88,6 +91,9 @@ Optimize for performance, lazy-loading images
 Add accessibility improvements (alt texts, ARIA roles)
 
 (Optional) Convert to a React / Vue / Angular SPA in future
+
+
+
 
 👥 Contributing
 Contributions are welcome! To contribute:
